@@ -10,7 +10,7 @@ import Foundation
 class NetworkService {
     
     // MARK: - API Configuration
-    let apiKey = "8735489a0e454493856e64c118b0e8f8"
+    let apiKey = "API_KEY"
     let pageSize = 250
 
     // MARK: - Fetch Games
