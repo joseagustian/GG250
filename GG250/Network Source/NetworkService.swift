@@ -11,7 +11,7 @@ class NetworkService {
     
     // MARK: - API Configuration
     let apiKey = "8735489a0e454493856e64c118b0e8f8"
-    let pageSize = 25
+    let pageSize = 250
 
     // MARK: - Fetch Games
     func getGames(page: Int) async throws -> [Games] {
